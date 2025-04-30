@@ -1,0 +1,19 @@
+{
+  "name": "lightweight_flashcardloader",
+  "version": "1.0.0",
+  "description": "New Project -",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrispieFB/lightweight_flashcardloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrispieFB/lightweight_flashcardloader/issues"
+  },
+  "homepage": "https://github.com/CrispieFB/lightweight_flashcardloader#readme"
+}
